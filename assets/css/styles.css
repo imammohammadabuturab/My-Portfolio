@@ -189,7 +189,7 @@ img {
 }
 .home__title {
   font-size: var(--big-font-size);
-  margin-bottom: var(--mb-5);
+  margin-bottom: var(--mb-4);
 }
 .home__title-color {
   color: var(--first-color);
@@ -201,7 +201,7 @@ img {
 .home__social-icon {
   width: max-content;
   margin-bottom: var(--mb-2);
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: var(--second-color);
 }
 .home__social-icon:hover {
@@ -291,13 +291,13 @@ img {
   z-index: var(--z-back);
 }
 .skills__html {
-  width: 95%;
+  width: 100%;
 }
 .skills__css {
-  width: 85%;
+  width: 95%;
 }
 .skills__js {
-  width: 65%;
+  width: 90%;
 }
 .skills__ux {
   width: 85%;
